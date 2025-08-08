@@ -1,0 +1,11 @@
+# Gemini AI API Configuration
+# Get your API key from: https://makersuite.google.com/app/apikey
+
+GEMINI_API_KEY=your_gemini_api_key_here
+
+# Optional: Choose your preferred model
+GEMINI_MODEL=gemini-1.5-flash
+
+# App Configuration
+APP_NAME=Gemini AI Assistant
+APP_VERSION=1.0.0 
